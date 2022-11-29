@@ -1,0 +1,34 @@
+{
+    "name": "@zaadevofc/low-db",
+    "version": "1.8.0",
+    "description": "@zaadevofc/low-db",
+    "main": "index.js",
+    "private": false,
+    "scripts": {
+        "test": "node example.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/zaadevofc/low-db.git"
+    },
+    "keywords": [
+        "database",
+        "db",
+        "json",
+        "low-db",
+        "nodejs"
+    ],
+    "author": "zaadevofc",
+    "license": "Apache",
+    "bugs": {
+        "url": "https://github.com/zaadevofc/low-db/issues"
+    },
+    "homepage": "https://github.com/zaadevofc/low-db#readme",
+    "dependencies": {
+        "got": "^12.5.3",
+        "lodash": "^4.17.21",
+        "mongoose": "^6.7.3",
+        "lowdb": "^2.1.0",
+        "path": "^0.12.7"
+    }
+}
