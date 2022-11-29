@@ -1,16 +1,16 @@
-## @zaadevofc/wa-button-parse
+## @zaadevofc/low-db
 
 ## Installation
 
 Install with npm:
 
 ```js
-$ npm install @zaadevofc/wa-button-parse
+$ npm install @zaadevofc/low-db
 ```
 
 #### Example :
 
-see [example.js](https://github.com/zaadevofc/wa-button-parse/blob/master/example.js) for details.
+see [example.js](https://github.com/zaadevofc/low-db/blob/master/example.js) for details.
 
 ## License
 
